@@ -1,2 +1,11 @@
-# python-verificador-de-notas
-Programa em Python para verificar a situação de alunos com base na nota.
+# Sistema de Verificação de Notas
+
+Projeto simples em Python que recebe o nome e a nota de um aluno e informa sua situação acadêmica.
+
+## Funcionalidades
+- Entrada de nome
+- Entrada de nota
+- Verificação de aprovação
+
+## Tecnologias
+- Python 3
